@@ -1,0 +1,30 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("https://media.istockphoto.com/id/1360808072/photo/playing-cards-border.jpg?s=612x612&w=0&k=20&c=eqx1wsKWU627DX-SYino-ia6cs282IsEEczfPxl53yc=");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-shadow: 0 0 5px black;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
